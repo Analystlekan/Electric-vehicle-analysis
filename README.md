@@ -42,7 +42,7 @@ For this project, I used Tableau as the primary tool for data analysis and visua
 
 5. **Total Vehicles by Model**: A bar chart showing the total number of electric vehicles by model.
 
-
+![Screenshot (6)](https://github.com/Analystlekan/Electric-vehicle-analysis/assets/172055479/1d3b1081-c0e2-4f7d-a3b3-00776600a124)
 ## Conclusion
 
 This data analysis project in Tableau provides valuable insights into the electric vehicle market. The interactive visualizations help in understanding the distribution of electric vehicles by model year, state, make, eligibility, and model. By the end of the project, we aim to uncover actionable recommendations that can drive informed decision-making and strategic planning in the electric vehicle industry, all within the user-friendly environment of Tableau.
